@@ -1,0 +1,6 @@
+name_code1=FR
+capital=Paris
+pays=France
+lang=French
+phone=33
+isocod=FR
